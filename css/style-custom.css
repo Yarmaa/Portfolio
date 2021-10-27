@@ -1,0 +1,18 @@
+
+.clients__slide img {
+    opacity: .4;
+    filter: invert(90);
+}
+
+@media screen and (max-width: 400px) {
+
+    #intro {
+        padding-bottom: 0;
+    }
+
+    .btn {
+        line-height: 2;
+        white-space: normal;
+    }
+        
+}    
