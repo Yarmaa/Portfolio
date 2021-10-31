@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="219"
-   height="75"
-   viewBox="0 0 57.943748 19.843751"
+   width="300"
+   height="100"
+   viewBox="0 0 79.374997 26.458335"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (1:1.1+202109281943+c3084ef5ed)"
@@ -24,44 +24,68 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
-     width="219px"
+     width="300px"
      inkscape:zoom="2.5906004"
-     inkscape:cx="84.729393"
-     inkscape:cy="38.215079"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:cx="163.47562"
+     inkscape:cy="68.902946"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2">
     <rect
        x="-2.2054737"
-       y="9.8017296"
-       width="223.4031"
-       height="53.151103"
+       y="9.8017292"
+       width="223.40311"
+       height="53.151104"
        id="rect2920" />
     <rect
        x="14.252411"
        y="16.048172"
        width="254.41284"
-       height="51.701971"
+       height="51.701969"
        id="rect1982" />
+    <rect
+       x="21.861471"
+       y="85.056992"
+       width="368.15274"
+       height="134.52969"
+       id="rect2020" />
   </defs>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-0.86709685,-10.893777)">
     <text
        xml:space="preserve"
-       transform="matrix(0.30876844,0,0,0.30876844,0.35890242,-0.32294058)"
-       id="text2918"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2920);fill:#ffffff"><tspan
-         x="-2.2050781"
-         y="44.800781"
-         id="tspan10071">Maryam F<tspan
-   style="fill:#008080"
-   id="tspan10069">.</tspan></tspan></text>
+       transform="matrix(0.30720084,0,0,0.30720084,-24.397657,-11.071957)"
+       id="text2018"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Ultra-Bold';text-align:center;letter-spacing:1.3px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2020);fill:#ffffff;fill-opacity:1"
+       x="30.028662"
+       y="0"><tspan
+         x="84.057785"
+         y="121.27187"
+         id="tspan837">Maryam Fall </tspan></text>
+    <path
+       style="fill:#1f9387;fill-opacity:1;stroke:none;stroke-linecap:square;paint-order:stroke fill markers"
+       id="path3966"
+       sodipodi:type="arc"
+       sodipodi:cx="78.949326"
+       sodipodi:cy="24.869549"
+       sodipodi:rx="1.3433727"
+       sodipodi:ry="1.3433727"
+       sodipodi:start="0"
+       sodipodi:end="6.251717"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 80.292698,24.869549 a 1.3433727,1.3433727 0 0 1 -1.332804,1.343331 1.3433727,1.3433727 0 0 1 -1.353775,-1.322195 1.3433727,1.3433727 0 0 1 1.311504,-1.364135 1.3433727,1.3433727 0 0 1 1.37441,1.300732" />
   </g>
 </svg>
